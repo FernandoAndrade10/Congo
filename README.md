@@ -25,3 +25,7 @@ A software that performs simple E-commerce site for a “abc” sales Company. T
 * Click on "Admin" for MySQL, opening up PHPMyAdmin in a browser tab
 * On the PHPMyAdmin browser tab, import congo2.sql located at C:\xampp\htdocs\Congo
 * In a browser, navigate to url: http://localhost/Congo/script
+
+### Year of completion
+
+2020
